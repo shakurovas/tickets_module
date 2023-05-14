@@ -1,0 +1,57 @@
+<?
+$MESS ['SUP_DEP'] = "Team";
+$MESS ["SUP_CR_TASK"] = "Aufgabe erstellen";
+
+$MESS ["SUP_L_MESS"] = "Die Aufgabe wurde auf der Grundlage Tickets erstellt. Link zur Aufgabe:";
+$MESS ["SUP_L_MESS2"] = "Um Informationen Гјber den Status der Aufgabe zu erhalten, kГ¶nnen Sie sich an den technischen Support von MEDI GmbH und KG wenden.";
+$MESS ["SUP_L_TASK"] = "Link zum Ticket:";
+$MESS ["SUP_DEP"] = "Abteilung";
+
+$MESS ['SUP_ANSWER'] = "Antwort";
+$MESS ['SUP_MARK'] = "Antwortbewertung";
+$MESS ['SUP_APPLY'] = "Anwenden";
+$MESS ['SUP_ATTACH'] = "Dateien anhГ¤ngen";
+$MESS ['SUP_SELECT'] = "Dateien auswГ¤hlen";
+$MESS ['SUP_B'] = "B";
+$MESS ['SUP_B_ALT'] = "Fett";
+$MESS ['SUP_CATEGORY'] = "Kategorie";
+$MESS ['SUP_CLOSE_TICKET'] = "Ticket schlieГџen";
+$MESS ['SUP_CLOSE'] = "Geschlossen";
+$MESS ['SUP_CODE'] = "Code";
+$MESS ['SUP_COUPON'] = "Gutschein";
+$MESS ['SUP_CREATE'] = "Erstellt";
+$MESS ['SUP_CRITICALITY'] = "Dringlichkeit";
+$MESS ['SUP_DISCUSSION'] = "Diskussion";
+$MESS ['SUP_CODE_ALT'] = "Text als Code anzeigen";
+$MESS ['SUP_QUOTE_ALT'] = "Text als Zitat anzeigen";
+$MESS ['SUP_DOWNLOAD'] = "download";
+$MESS ['SUP_DOWNLOAD_ALT'] = "Datei &quot;#FILE_NAME#&quot; herunterladen";
+$MESS ['SUP_USERS_ONLINE'] = "In den letzten #TIME# wurde dieses Ticket angesehen von";
+$MESS ['SUP_FROM'] = "Von";
+$MESS ['SUP_I'] = "I";
+$MESS ['SUP_I_ALT'] = "Kursiv";
+$MESS ['SUP_KB'] = "KB";
+$MESS ['SUP_MESSAGE'] = "Nachricht";
+$MESS ['SUP_MIN'] = "Min.";
+$MESS ['SUP_TIMESTAMP'] = "GeГ¤ndert";
+$MESS ['SUP_MORE'] = "Mehr...";
+$MESS ['SUP_OPEN_TICKET'] = "Ticket Г¶ffnen";
+$MESS ['SUP_QUOTE_LINK'] = "Zitieren";
+$MESS ['SUP_QUOTE'] = "Zitat";
+$MESS ['SUP_QUOTE_LINK_DESCR'] = "AusgewГ¤hlten Absatz zitieren";
+$MESS ['SUP_REQ'] = "Pflichtfelder";
+$MESS ['SUP_RESET'] = "ZurГјcksetzen";
+$MESS ['SUP_RESPONSIBLE'] = "Verantwortlicher";
+$MESS ['SUP_SAVE'] = "Speichern";
+$MESS ['SUP_SOURCE'] = "Quelle";
+$MESS ['SUP_STATUS'] = "Status";
+$MESS ['SUP_TITLE'] = "Гњberschrift";
+$MESS ['SUP_SLA'] = "Support Level";
+$MESS ['SUP_TIME'] = "Zeit";
+$MESS ['SUP_TRANSLIT'] = "Translit";
+$MESS ['SUP_TRANSLIT_ALT'] = "Translit";
+$MESS ['SUP_TICKET'] = "Ticket";
+$MESS ['SUP_U'] = "U";
+$MESS ['SUP_U_ALT'] = "Unterstrichen";
+$MESS ['SUP_VIEW_ALT'] = "Datei anzeigen";
+?>

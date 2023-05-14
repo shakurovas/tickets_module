@@ -1,0 +1,29 @@
+<?
+$MESS["SUP_ALL"] = "(Щ‡Щ…Щ‡)";
+$MESS["SUP_GREEN_ALT"] = "ШґЩ…Ш§ ЩѕШ§ШіШ® ШЇШ§ШЇЩ‡ Ш§ЫЊШЇ";
+$MESS["SUP_CLOSED"] = "ШЁШіШЄЩ‡";
+$MESS["SUP_F_CLOSE"] = "ШЁШіШЄЩ‡/ШЁШ§ШІ";
+$MESS["SUP_ASK"] = "ШіШ§Ш®ШЄ ШЄЫЊЪ©ШЄ Ш¬ШЇЫЊШЇ";
+$MESS["SUP_EDIT_TICKET"] = "Щ€ЫЊШ±Ш§ЫЊШґ ШЄЫЊЪ©ШЄ";
+$MESS["SUP_F_FILTER"] = "ЩЃЫЊЩ„ШЄШ±";
+$MESS["SUP_GREEN"] = "ШіШЁШІ";
+$MESS["SUP_GREY"] = "Ш®Ш§Ъ©ШіШЄШ±ЫЊ";
+$MESS["SUP_ID"] = "ШґЩ†Ш§ШіЩ‡";
+$MESS["SUP_LAMP"] = "Щ†Щ…Ш§ЫЊЩ†ШЇЩ‡";
+$MESS["SUP_F_LAMP"] = "Щ†Щ…Ш§ЫЊЩ†ШЇЩ‡";
+$MESS["SUP_F_ID"] = "ШґЩ†Ш§ШіЩ‡ ШЇШ±Ш®Щ€Ш§ШіШЄ";
+$MESS["SUP_F_MESSAGE"] = "ЩѕЫЊШєШ§Щ…";
+$MESS["SUP_TIMESTAMP"] = "Щ€ЫЊШ±Ш§ЫЊШґ ШґШЇЩ‡";
+$MESS["SUP_MODIFIED_BY"] = "Щ€ЫЊШ±Ш§ЫЊШґ ШґШЇЩ‡ ШЄЩ€ШіШ·";
+$MESS["SUP_EDIT"] = "Щ€ЫЊШ±Ш§ЫЊШґ";
+$MESS["SUP_MESSAGES"] = "ЩѕЫЊШєШ§Щ…Щ‡Ш§";
+$MESS["SUP_OPENED"] = "ШЁШ§ШІ";
+$MESS["SUP_RED"] = "Щ‚Ш±Щ…ШІ";
+$MESS["SUP_F_DEL_FILTER"] = "Ш­Ш°ЩЃ ЩЃЫЊЩ„ШЄШ±";
+$MESS["SUP_F_SET_FILTER"] = "Ш§Ш№Щ…Ш§Щ„ ЩЃЫЊЩ„ШЄШ±";
+$MESS["SUP_STATUS"] = "Щ€Ш¶Ш№ЫЊШЄ";
+$MESS["SUP_TITLE"] = "Щ…Щ€Ш¶Щ€Ш№";
+$MESS["SUP_GREY_ALT"] = "ШЄЫЊЪ©ШЄ ШЁШіШЄЩ‡ Ш§ШіШЄ";
+$MESS["SUP_TOTAL"] = "Щ…Ш¬Щ…Щ€Ш№";
+$MESS["SUP_EXACT_MATCH"] = "ШЇЩ‚ЫЊЩ‚Ш§ Щ‡Щ…ЫЊЩ†";
+?>

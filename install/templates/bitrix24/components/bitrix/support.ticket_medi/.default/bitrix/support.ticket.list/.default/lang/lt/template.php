@@ -1,0 +1,37 @@
+<?
+$MESS["SUP_ID"] = "ID";
+$MESS["SUP_F_FILTER"] = "Filtras";
+$MESS["SUP_ASK"] = "Sukurti naujД… praneЕЎimД…";
+$MESS["SUP_F_ID"] = "UЕѕklausos ID";
+$MESS["SUP_EXACT_MATCH"] = "IeЕЎkoti pagal visus ДЇraЕЎytus duomenis";
+$MESS["SUP_F_LAMP"] = "Indikatorius";
+$MESS["SUP_RED"] = "raudonas";
+$MESS["SUP_GREEN"] = "Еѕalias";
+$MESS["SUP_GREY"] = "pilkas";
+$MESS["SUP_F_CLOSE"] = "UЕѕdaryta/atidaryta";
+$MESS["SUP_CLOSED"] = "UЕѕdaryta";
+$MESS["SUP_OPENED"] = "ДЇrankis prieinamas";
+$MESS["SUP_ALL"] = "(viskД…)";
+$MESS["SUP_F_MESSAGE"] = "PraneЕЎimo tekstas";
+$MESS["SUP_F_SET_FILTER"] = "Д®diegti";
+$MESS["SUP_F_DEL_FILTER"] = "IЕЎvalyti";
+$MESS["SUP_LAMP"] = "Indikatorius";
+$MESS["SUP_TITLE"] = "Pavadinimas";
+$MESS["SUP_TIMESTAMP"] = "Atnaujinta";
+$MESS["SUP_MODIFIED_BY"] = "Atnaujino";
+$MESS["SUP_MESSAGES"] = "PraneЕЎ.";
+$MESS["SUP_STATUS"] = "Statusas";
+$MESS["SUP_GREEN_ALT"] = "paskutinДЇ kartД… JЕ«s paraЕЎД—te uЕѕklausimД…";
+$MESS["SUP_EDIT_TICKET"] = "Keisti uЕѕklausimД…";
+$MESS["SUP_EDIT"] = "Redaguoti";
+$MESS["SUP_TOTAL"] = "Total";
+$MESS["SUP_GREY_ALT"] = "uЕѕklausimas uЕѕdarytas";
+$MESS["SUP_RED_ALT"] = "paskutinis ДЇraЕЎД— techninio palaikymo darbuotojas";
+$MESS["SUP_RED_ALT_2"] = "paskutinДЇ kartД… ДЇ uЕѕklausimД… jЕ«sЕі oponentas paraЕЎД—";
+$MESS["SUP_GREEN_ALT_SUP"] = "paskutinis praneЕЎimas yra jЕ«sЕі";
+$MESS["SUP_RED_ALT_SUP"] = "paskutinis ДЇraЕЎД— techninio palaikymo klientas (jЕ«s esate atsakingas)";
+$MESS["SUP_YELLOW_ALT_SUP"] = "paskutinis ДЇraЕЎД— techninio palaikymo klientas (jЕ«s nesate atsakingas)";
+$MESS["SUP_GREY_ALT_SUP"] = "bilietas uЕѕdarytas";
+$MESS["SUP_GREEN_S_ALT_SUP"] = "paskutinis ДЇraЕЎД— techninio palaikymo darbuotojas";
+$MESS["SUP_VIEW_TICKET"] = "PerЕѕiЕ«rД—ti bilietД…";
+?>
